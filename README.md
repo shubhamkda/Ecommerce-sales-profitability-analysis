@@ -1,24 +1,29 @@
-ecommerce-sales-profitability-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   └── README.md
-│   │
-│   └── processed/
-│       └── cleaned_dataset.csv
-│
-├── notebooks/
-│   └── ECommerce_Sales_Profitability_Analysis.ipynb
-│
-├── outputs/
-│   ├── charts/
-│   └── analysis_results/
-│
-├── dashboard/
-│   └── ECommerce_Sales_Profitability_Dashboard.pbix
-│
-├── README.md
-│
-├── requirements.txt
-│
-└── .gitignore
+# E-Commerce Sales & Profitability Analysis
+
+## Business Problem
+
+## Project Objective
+
+## Dataset
+
+## Tools & Technologies
+
+## Data Cleaning
+
+## Feature Engineering
+
+## KPI Analysis
+
+## Exploratory Data Analysis
+
+## Profitability Analysis
+
+## Key Business Findings
+
+## Business Recommendations
+
+## Dashboard
+
+## Project Structure
+
+## How to Run the Project
